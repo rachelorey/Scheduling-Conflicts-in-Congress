@@ -1,0 +1,566 @@
+Committee,Code
+Agriculture,AG00
+Committee on Agriculture,AG00
+"Nutrition, Oversight, and Department Operations",AG03
+"Nutrition, Oversight, and Department Operations (Agriculture)",AG03
+"Subcommittee on Nutrition, Oversight, and Department Operations (Committee on Agriculture)",AG03
+Subcommittee on Nutrition (Committee on Agriculture),AG03
+"Biotechnology, Horticulture, and Research (Agriculture)",AG03
+"Biotechnology, Horticulture, and Research",AG14
+"Subcommittee on Biotechnology, Horticulture, and Research (Committee on Agriculture)",AG14
+"Horticulture, Research, Biotechnology, and Foreign Agriculture (Agriculture)",AG14
+Conservation and Forestry,AG15
+Conservation and Forestry (Agriculture),AG15
+Subcommittee on Conservation and Forestry (Committee on Agriculture),AG15
+"Conservation, Energy, and Forestry (Agriculture)",AG15
+General Farm Commodities and Risk Management,AG16
+General Farm Commodities and Risk Management (Agriculture),AG16
+Subcommittee on General Farm Commodities and Risk Management (Committee on Agriculture),AG16
+"Commodity Exchanges, Energy, and Credit",AG22
+"Commodity Exchanges, Energy, and Credit (Agriculture)",AG22
+"Subcommittee on Commodity Exchanges, Energy, and Credit (Committee on Agriculture)",AG22
+"Department Operations, Oversight, and Nutrition (Agriculture)",AG22
+Livestock and Foreign Agriculture,AG29
+Livestock and Foreign Agriculture (Agriculture),AG29
+Subcommittee on Livestock and Foreign Agriculture (Committee on Agriculture),AG29
+"Livestock, Rural Development, and Credit (Agriculture)",AG29
+Appropriations,AP00
+Committee on Appropriations,AP00
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",AP01
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies (Appropriations)",AP01
+"Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies (Committee on Appropriations)",AP01
+Defense,AP02
+Defense (Appropriations),AP02
+Subcommittee on Defense (Committee on Appropriations),AP02
+"State, Foreign Operations, and Related Programs",AP04
+"State, Foreign Operations, and Related Programs (Appropriations)",AP04
+"Subcommittee on State, Foreign Operations, and Related Programs (Committee on Appropriations)",AP04
+"State, Foreign Operations, and Related Programs (Committee on Appropriations)",AP04
+"Interior, Environment, and Related Agencies",AP06
+"Interior, Environment, and Related Agencies (Appropriations)",AP06
+"Subcommittee on Interior, Environment, and Related Agencies (Committee on Appropriations)",AP06
+"Labor, Health and Human Services, Education, and Related Agencies",AP07
+"Labor, Health and Human Services, Education, and Related Agencies (Appropriations)",AP07
+"the Departments of Labor, Health and Human Services, Education, and Related Agencies (Appropriations)",AP07
+"Subcommittee on the Departments of Labor, Health and Human Services, Education, and Related Agencies (Committee on Appropriations)",AP07
+"Subcommittee on Labor, Health and Human Services, Education, and Related Agencies (Committee on Appropriations)",AP07
+"Energy and Water Development, and Related Agencies",AP10
+"Energy and Water Development, and Related Agencies (Appropriations)",AP10
+"Subcommittee on Energy and Water Development, and Related Agencies (Committee on Appropriations)",AP10
+Homeland Security,AP15
+Homeland Security (Appropriations),AP15
+the Department of Homeland Security (Appropriations),AP15
+Subcommittee on the Department of Homeland Security (Committee on Appropriations),AP15
+Subcommittee on Homeland Security (Committee on Appropriations),AP15
+"Military Construction, Veterans Affairs, and Related Agencies",AP18
+"Military Construction, Veterans Affairs, and Related Agencies (Appropriations)",AP18
+"Subcommittee on Military Construction, Veterans Affairs, and Related Agencies (Committee on Appropriations)",AP18
+"Commerce, Justice, Science, and Related Agencies",AP19
+"Commerce, Justice, Science, and Related Agencies (Appropriations)",AP19
+"Subcommittee on Commerce, Justice, Science, and Related Agencies (Committee on Appropriations)",AP19
+"Commerce, Justice, Science, and Related Agencies (Committee on Appropriations)",AP19
+"the Departments of Transportation, and House and Urban Development, and Related Agen (Appropriations)",AP20
+"Transportation, and Housing and Urban Development, and Related Agencies",AP20
+"Transportation, and Housing and Urban Development, and Related Agencies (Appropriations)",AP20
+"Subcommittee on the Departments of Transportation, and House and Urban Development, and Related Agen (Committee on Appropriations)",AP20
+"Subcommittee on Transportation, and Housing and Urban Development, and Related Agencies (Committee on Appropriations)",AP20
+Financial Services and General Government,AP23
+Financial Services and General Government (Appropriations),AP23
+Subcommittee on Financial Services and General Government (Committee on Appropriations),AP23
+Legislative Branch,AP24
+Legislative Branch (Appropriations),AP24
+Subcommittee on Legislative Branch (Committee on Appropriations),AP24
+Armed Services,AS00
+Committee on Armed Services,AS00
+Military Personnel,AS02
+Military Personnel (Armed Services),AS02
+Subcommittee on Military Personnel (Committee on Armed Services),AS02
+Readiness,AS03
+Readiness (Armed Services),AS03
+Subcommittee on Readiness (Committee on Armed Services),AS03
+Oversight and Investigations (Armed Services),AS06
+Tactical Air and Land Forces,AS25
+Tactical Air and Land Forces (Armed Services),AS25
+Subcommittee on Tactical Air and Land Forces (Committee on Armed Services),AS25
+Emerging Threats and Capabilities,AS26
+Emerging Threats and Capabilities (Armed Services),AS26
+Intelligence and Emerging Threats and Capabilities,AS26
+Intelligence and Emerging Threats and Capabilities (Armed Services),AS26
+Subcommittee on Intelligence and Emerging Threats and Capabilities (Committee on Armed Services),AS26
+Subcommittee on Emerging Threats and Capabilities (Committee on Armed Services),AS26
+"Intelligence, Emerging Threats and Capabilities (Armed Services)",AS26
+"Intelligence, Emerging Threats and Capabilities (Committee on Armed Services)",AS26
+Seapower and Projection Forces,AS28
+Seapower and Projection Forces (Armed Services),AS28
+Subcommittee on Seapower and Projection Forces (Committee on Armed Services),AS28
+Strategic Forces,AS29
+Strategic Forces (Armed Services),AS29
+Subcommittee on Strategic Forces (Committee on Armed Services),AS29
+Committee on Financial Services,BA00
+Financial Services,BA00
+"National Security, International Development, and Monetary Policy",BA01
+"National Security, International Development, and Monetary Policy (Financial Services)",BA01
+"Subcommittee on National Security, International Development, and Monetary Policy (Committee on Financial Services)",BA01
+Housing and Insurance (Financial Services),BA04
+"Housing, Community Development, and Insurance",BA04
+"Housing, Community Development, and Insurance (Financial Services)",BA04
+"Subcommittee on Housing, Community Development, and Insurance (Committee on Financial Services)",BA04
+Subcommittee on Housing and Insurance (Committee on Financial Services),BA04
+Oversight and Investigations,BA09
+Oversight and Investigations (Energy and Commerce),BA09
+Oversight and Investigations (Financial Services),BA09
+Oversight and Investigations (Foreign Affairs),BA09
+Oversight and Investigations (Natural Resources),BA09
+Oversight and Investigations (Veterans' Affairs),BA09
+Subcommittee on Oversight and Investigations (Committee on Armed Services),BA09
+Subcommittee Oversight and Investigations (Foreign Affairs),BA09
+Subcommittee on Oversight and Investigations (Committee on Energy and Commerce),BA09
+Subcommittee on Oversight and Investigations (Committee on Natural Resources),BA09
+Subcommittee Oversight and Investigations (Committee on Foreign Affairs),BA09
+Subcommittee on Oversight and Investigations (Committee on Financial Services),BA09
+Subcommittee on Oversight and Investigations (Committee on Veterans' Affairs),BA09
+Diversity and Inclusion,BA13
+Diversity and Inclusion (Financial Services),BA13
+Subcommittee on Diversity and Inclusion (Committee on Financial Services),BA13
+Consumer Protection and Financial Institutions,BA15
+Consumer Protection and Financial Institutions (Financial Services),BA15
+Financial Institutions and Consumer Credit,BA15
+Financial Institutions and Consumer Credit (Financial Services),BA15
+Subcommittee on Consumer Protection and Financial Institutions (Committee on Financial Services),BA15
+Subcommittee on Financial Institutions and Consumer Credit (Committee on Financial Services),BA15
+"Capital Markets, Securities, and Investment ",BA16
+"Capital Markets, Securities, and Investment (Financial Services)",BA16
+"Investor Protection, Entrepreneurship, and Capital Markets",BA16
+"Investor Protection, Entrepreneurship, and Capital Markets (Financial Services)",BA16
+Monetary Policy and Trade,BA16
+Monetary Policy and Trade (Financial Services),BA16
+"Subcommittee on Investor Protection, Entrepreneurship, and Capital Markets (Committee on Financial Services)",BA16
+Capital Markets and Government Sponsored Enterprises (Financial Services),BA16
+"Subcommittee on Capital Markets, Securities, and Investment (Committee on Financial Services)",BA16
+Subcommittee on Monetary Policy and Trade (Committee on Financial Services),BA16
+Subcommittee on Capital Markets and Government Sponsored Enterprises (Committee on Financial Services),BA16
+Committee on the Budget,BU00
+the Budget,BU00
+Select Committee on the Climate Crisis,CN00
+Select the Climate Crisis,CN00
+Joint Economic Committee,EC00
+Committee on Education and Labor,ED00
+Education and Labor,ED00
+Education and the Workforce,ED00
+Committee on Education and the Workforce,ED00
+"Health, Employment, Labor, and Pensions",ED02
+"Health, Employment, Labor, and Pensions (Education and Labor)",ED02
+"Subcommittee on Health, Employment, Labor, and Pensions (Committee on Education and Labor)",ED02
+Civil Rights and Human Services,ED07
+Civil Rights and Human Services (Education and Labor),ED07
+Subcommittee on Civil Rights and Human Services (Committee on Education and Labor),ED07
+Workforce Protections,ED10
+Workforce Protections (Education and Labor),ED10
+Subcommittee on Workforce Protections (Committee on Education and Labor),ED10
+Higher Education and Workforce Development,ED13
+Higher Education and Workforce Development (Education and Labor),ED13
+Higher Education and Workforce Investment,ED13
+Higher Education and Workforce Investment (Education and Labor),ED13
+Subcommittee on Higher Education and Workforce Investment (Committee on Education and Labor),ED13
+Subcommittee on Higher Education and Workforce Development (Committee on Education and Labor),ED13
+Higher Education and Workforce Training (Education and Labor),ED13
+Subcommittee on Higher Education and Workforce Training (Committee on Education and Labor),ED13
+"Early Childhood, Elementary, and Secondary Education",ED14
+"Early Childhood, Elementary, and Secondary Education (Education and Labor)",ED14
+"Subcommittee on Early Childhood, Elementary, and Secondary Education (Committee on Education and Labor)",ED14
+Committee on Foreign Affairs,FA00
+Foreign Affairs,FA00
+Asia and Pacific ,FA05
+Asia and the Pacific (Foreign Affairs),FA05
+"Asia, the Pacific and Nonproliferation",FA05
+"Asia, the Pacific and Nonproliferation (Foreign Affairs)",FA05
+"Asia, the Pacific, and Nonproliferation",FA05
+"Asia, the Pacific, and Nonproliferation (Foreign Affairs)",FA05
+"Subcommittee on Asia, the Pacific and Nonproliferation (Committee on Foreign Affairs)",FA05
+Subcommittee on Asia and the Pacific (Committee on Foreign Affairs),FA05
+the Western Hemisphere (Foreign Affairs),FA07
+Western Hemisphere,FA07
+"Western Hemisphere, Civilian Security and Trade",FA07
+"Western Hemisphere, Civilian Security and Trade (Foreign Affairs)",FA07
+"Western Hemisphere, Civilian Security, and Trade",FA07
+"Western Hemisphere, Civilian Security, and Trade (Foreign Affairs)",FA07
+"Subcommittee on Western Hemisphere, Civilian Security and Trade (Committee on Foreign Affairs)",FA07
+Subcommittee on the Western Hemisphere (Committee on Foreign Affairs),FA07
+Middle East and North Africa,FA13
+"Middle East, North Africa and International Terrorism",FA13
+"Middle East, North Africa and International Terrorism (Foreign Affairs)",FA13
+"Middle East, North Africa, and International Terrorism",FA13
+"Middle East, North Africa, and International Terrorism (Foreign Affairs)",FA13
+Subcommittee on Terrorism and Illicit Finance (Committee on Financial Services),FA13
+Terrorism and Illicit Finance,FA13
+Terrorism and Illicit Finance (Foreign Affairs),FA13
+"Terrorism, Nonproliferation, and Trade",FA13
+"Terrorism, Nonproliferation, and Trade (Foreign Affairs)",FA13
+the Middle East and North Africa (Foreign Affairs),FA13
+"Subcommittee on Middle East, North Africa and International Terrorism (Committee on Foreign Affairs)",FA13
+"Subcommittee on Terrorism, Nonproliferation, and Trade (Committee on Foreign Affairs)",FA13
+Subcommittee on the Middle East and North Africa (Committee on Foreign Affairs),FA13
+"Europe, Eurasia, and Emerging Threats",FA14
+"Europe, Eurasia, Energy and Environment",FA14
+"Europe, Eurasia, Energy and the Environment (Foreign Affairs)",FA14
+"Europe, Eurasia, Energy, and the Environment",FA14
+"Europe, Eurasia, Energy, and the Environment (Foreign Affairs)",FA14
+"Subcommittee on Europe, Eurasia, and Emerging Threats (Committee on Foreign Affairs)",FA14
+"Subcommittee on Europe, Eurasia, Energy and the Environment (Committee on Foreign Affairs)",FA14
+"Europe, Eurasia, and Emerging Threats (Foreign Affairs)",FA14
+"Africa, Global Health, Global Human Rights, and International Organizations",FA16
+"Africa, Global Health, Global Human Rights, and International Organizations (Foreign Affairs)",FA16
+"Subcommittee on Africa, Global Health, Global Human Rights, and International Organizations (Committee on Foreign Affairs)",FA16
+Information Technology,GO25
+Information Technology (Oversight and Reform),GO25
+Committee on Oversight and Reform,GO00
+Oversight and Government Reform,GO00
+Oversight and Reform,GO00
+Committee on Oversight and Government Reform,GO00
+Civil Rights and Civil Liberties,GO02
+Civil Rights and Civil Liberties (Oversight and Reform),GO02
+Subcommittee on Civil Rights and Civil Liberties (Committee on Oversight and Reform),GO02
+Economic and Consumer Policy,GO05
+Economic and Consumer Policy (Oversight and Reform),GO05
+Subcommittee on Economic and Consumer Policy (Committee on Oversight and Reform),GO05
+National Security,GO06
+National Security (Oversight and Reform),GO06
+Subcommittee on National Security (Committee on Oversight and Reform),GO06
+Government Operations,GO24
+Government Operations (Oversight and Reform),GO24
+"Healthcare, Benefits, and Administrative Rules",GO24
+Intergovernmental Affairs,GO24
+"Subcommittee on Healthcare, Benefits, and Administrative Rules (Committee on Oversight and Reform)",GO24
+Subcommittee on Intergovernmental Affairs (Committee on Oversight and Reform),GO24
+Subcommittee on Government Operations (Committee on Oversight and Reform),GO24
+"Subcommitte on Health Care, Benefits and Administrative Rules (Committee on Oversight and Reform)",GO24
+"Subcommittee Health Care, Benefits, and Administrative Rules (Committee on Oversight and Reform)",GO24
+Subcommittee on Information Technology (Committee on Oversight and Reform),GO25
+"Federal Workforce, U.S. Postal Service and the Census (Oversight and Reform)",GO25
+"Federal Workforce, U.S. Postal Service, and the Census (Oversight and Reform)",GO25
+Subcommitte on Information Technology (Oversight and Reform),GO25
+Subcommitte on Information Technology (Committee on Oversight and Reform),GO25
+"Energy Policy, Health Care and Entitlements (Oversight and Reform)",GO27
+"Energy Policy, Health Care, and Entitlements (Oversight and Reform)",GO27
+"Subcommitte on Health Care, Benefits and Administrative Rules (Oversight and Reform)",GO27
+Environment,GO28
+Environment (Oversight and Reform),GO28
+"Interior, Energy, and Environment",GO28
+"the Interior, Energy, and Environment (Oversight and Reform)",GO28
+Subcommittee on Environment (Committee on Oversight and Reform),GO28
+"Subcommitte on the Interior, Energy and Environment (Committee on Oversight and Reform)",GO28
+"Subcommittee on the Interior, Energy, and Environment (Committee on Oversight and Reform)",GO28
+"Economic Growth, Job Creation and Regulatory Affairs (Oversight and Reform)",GO28
+"Economic Growth, Job Creation, and Regulatory Affairs (Oversight and Reform)",GO28
+Subcommitte on the Interior (Oversight and Reform),GO28
+Subcommitte on the Interior (Committee on Oversight and Reform),GO28
+Subcommitte on Transportation and Public Assets (Oversight and Reform),GO29
+Subcommitte on Transportation and Public Assets (Committee on Oversight and Reform),GO29
+Committee on House Administration,HA00
+House Administration,HA00
+Elections,HA08
+Elections (House Administration),HA08
+Subcommittee on Elections (Committee on House Administration),HA08
+Committee on Homeland Security,HM00
+Counterterrorism and Intelligence,HM05
+Counterterrorism and Intelligence (Homeland Security),HM05
+Intelligence and Counterterrorism,HM05
+Intelligence and Counterterrorism (Homeland Security),HM05
+Subcommittee on Intelligence and Counterterrorism (Committee on Homeland Security),HM05
+Subcommittee on Counterterrorism and Intelligence (Committee on Homeland Security),HM05
+Transportation and Maritime Security,HM07
+Transportation and Maritime Security (Homeland Security),HM07
+Transportation and Protective Security,HM07
+Transportation and Protective Security (Homeland Security),HM07
+Subcommittee on Transportation and Maritime Security (Committee on Homeland Security),HM07
+Subcommittee on Transportation and Protective Security (Committee on Homeland Security),HM07
+Subcommittee on Transportation Security (Committee on Homeland Security),HM07
+Transportation Security (Homeland Security),HM07
+Cybersecurity and Infrastructure Protection,HM08
+Cybersecurity and Infrastructure Protection (Homeland Security),HM08
+"Cybersecurity, Infrastructure Protection, and Innovation",HM08
+"Cybersecurity, Infrastructure Protection, and Innovation (Homeland Security)",HM08
+"Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation (Committee on Homeland Security)",HM08
+Subcommittee on Cybersecurity and Infrastructure Protection (Committee on Homeland Security),HM08
+"Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies (Committee on Homeland Security)",HM08
+"Cybersecurity, Infrastructure Protection, and Security Technologies (Homeland Security)",HM08
+Oversight and Management Efficiency,HM09
+Oversight and Management Efficiency (Homeland Security),HM09
+"Oversight, Management, and Accountability",HM09
+"Oversight, Management, and Accountability (Homeland Security)",HM09
+"Subcommittee on Oversight, Management, and Accountability (Committee on Homeland Security)",HM09
+Subcommittee on Oversight and Management Efficiency (Committee on Homeland Security),HM09
+"Subcommittee on Oversight, Investigations, and Management (Committee on Homeland Security)",HM09
+Border and Maritime Security,HM11
+Border and Maritime Security (Homeland Security),HM11
+"Border Security, Facilitation, and Operations",HM11
+"Border Security, Facilitation, and Operations (Homeland Security)",HM11
+"Subcommittee on Border Security, Facilitation, and Operations (Committee on Homeland Security)",HM11
+Subcommittee on Border and Maritime Security (Committee on Homeland Security),HM11
+"Emergency Preparedness, Response and Communications",HM12
+"Emergency Preparedness, Response and Communications (Homeland Security)",HM12
+"Emergency Preparedness, Response, and Recovery",HM12
+"Emergency Preparedness, Response, and Recovery (Homeland Security)",HM12
+"Subcommittee on Emergency Preparedness, Response, and Recovery (Committee on Homeland Security)",HM12
+"Subcommittee on Emergency Preparedness, Response and Communications (Committee on Homeland Security)",HM12
+Select Investigative Panel of the Energy and Commerce (Energy and Commerce),IE00
+Select Investigative Panel of the Committee on Energy and Commerce (Committee on Energy and Commerce),IE00
+Committee on Energy and Commerce,IF00
+Energy and Commerce,IF00
+Energy (Energy and Commerce),IF03
+"Energy (Science, Space, and Technology)",IF03
+"Subcommittee on Energy (Committee on Science, Space, and Technology)",IF03
+Subcommittee on Energy (Committee on Energy and Commerce),IF03
+Energy and Power (Energy and Commerce),IF03
+Subcommittee on Energy and Power (Committee on Energy and Commerce),IF03
+Health (Energy and Commerce),IF14
+Health (Veterans' Affairs),IF14
+Health (Ways and Means),IF14
+Subcommittee on Health (Committee on Energy and Commerce),IF14
+Subcommittee on Health (Committee on Ways and Means),IF14
+Subcommittee on Health (Committee on Veterans' Affairs),IF14
+Communications and Technology,IF16
+Communications and Technology (Energy and Commerce),IF16
+Subcommittee on Communications and Technology (Committee on Energy and Commerce),IF16
+Consumer Protection and Commerce,IF17
+Consumer Protection and Commerce (Energy and Commerce),IF17
+Digital Commerce and Consumer Protection,IF17
+Digital Commerce and Consumer Protection (Energy and Commerce),IF17
+Subcommittee on Consumer Protection and Commerce (Committee on Energy and Commerce),IF17
+"Commerce, Manufacturing, and Trade (Energy and Commerce)",IF17
+Subcommittee on Digital Commerce and Consumer Protection (Committee on Energy and Commerce),IF17
+"Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",IF17
+Environment (Energy and Commerce),IF18
+Environment and Climate Change,IF18
+Environment and Climate Change (Energy and Commerce),IF18
+Subcommittee on Environment and Climate Change (Committee on Energy and Commerce),IF18
+Subcommittee on Environment (Committee on Energy and Commerce),IF18
+Environment and the Economy (Energy and Commerce),IF18
+Subcommittee on Environment and the Economy (Committee on Energy and Commerce),IF18
+Permanent Select Committee on Intelligence,IG00
+Subcommittee on the National Security Agency and Cybersecurity (Permanent Select Committee on Intelligence),IG02
+the National Security Agency and Cybersecurity (Permanent Select Intelligence),IG02
+Subcommittee on Emerging Threats (Permanent Select Committee on Intelligence),IG03
+Emerging Threats (Permanent Select Intelligence),IG03
+Department of Defense Intelligence and Overhead Architecture (Permanent Select Intelligence),IG04
+"Counterterrorism, Counterintelligence, and Counterproliferation",IG05
+"Counterterrorism, Counterintelligence, and Counterproliferation (Permanent Select Intelligence)",IG05
+Subcommittee on the Central Intelligence Agency (Permanent Select Committee on Intelligence),IG05
+the Central Intelligence Agency,IG05
+Defense Intelligence and Warfighter Support,IG06
+Defense Intelligence and Warfighter Support (Permanent Select Intelligence),IG06
+Defense Intelligence and Warfighter Support Subcommittee ,IG06
+Defense Intelligence and Warfighter Support Subcommittee (Permanent Select Committee on Intelligence,IG06
+Department of Defense Intelligence and Overhead Architecture,IG06
+Subcommittee on Department of Defense Intelligence and Overhead Architecture (Permanent Select Committee on Intelligence),IG06
+Subcommittee on Defense Intelligence and Warfighter Support (Permanent Select Committee on Intelligence),IG06
+Intelligence Modernization and Readiness,IG08
+Intelligence Modernization and Readiness (Permanent Select Intelligence),IG08
+Strategic Technologies and Advanced Research,IG10
+Strategic Technologies and Advanced Research (Permanent Select Intelligence),IG10
+Subcommittee on Strategic Technologies and Advanced Research (Permanent Select Committee on Intelligence),IG10
+Committee on Natural Resources,II00
+Natural Resources,II00
+Energy and Mineral Resources,II06
+Energy and Mineral Resources (Natural Resources),II06
+Subcommittee on Energy and Mineral Resources (Committee on Natural Resources),II06
+Federal Lands (Natural Resources),II10
+"National Parks, Forests, and Public Lands",II10
+"National Parks, Forests, and Public Lands (Natural Resources)",II10
+"Subcommittee on National Parks, Forests, and Public Lands (Committee on Natural Resources)",II10
+Subcommittee on Federal Lands (Committee on Natural Resources),II10
+Public Lands and Environmental Regulation (Natural Resources),II10
+"Water, Oceans, and Wildlife",II13
+"Water, Oceans, and Wildlife (Natural Resources)",II13
+"Water, Power and Oceans",II13
+"Water, Power and Oceans (Natural Resources)",II13
+"Subcommittee on Water, Oceans, and Wildlife (Committee on Natural Resources)",II13
+"Subcommittee on Water, Power and Oceans (Committee on Natural Resources)",II13
+Water and Power (Natural Resources),II13
+"Fisheries, Wildlife, Oceans and Insular Affairs (Natural Resources)",II22
+"Fisheries, Wildlife, Oceans and Insular Affairs (Committee on Natural Resources)",II22
+For Indigenous Peoples of the United States (Natural Resources),II24
+"Indian, Insular and Alaska Native Affairs",II24
+"Indian, Insular and Alaska Native Affairs (Natural Resources)",II24
+Indigenous Peoples of the United States,II24
+Indigenous Peoples of the United States (Natural Resources),II24
+Subcommittee on Indigenous Peoples of the United States (Committee on Natural Resources),II24
+"Subcommittee on Indian, Insular and Alaska Native Affairs (Committee on Natural Resources)",II24
+Indian and Alaska Native Affairs (Natural Resources),II24
+"Subcommittee on Indians, Insular and Alaska Native Affairs (Committee on Natural Resources)",II24
+Joint Committee on Taxation,IT00
+Joint Taxation,IT00
+Joint Committee on the Library,JL00
+Joint the Library,JL00
+Joint Committee on Printing,JP00
+Joint Printing,JP00
+Committee on the Judiciary,JU00
+the Judiciary,JU00
+Immigration and Border Security (Judiciary),JU01
+Immigration and Border Security (the Judiciary),JU01
+Immigration and Citizenship,JU01
+Immigration and Citizenship (Judiciary),JU01
+Immigration and Citizenship (the Judiciary),JU01
+Subcommittee on Immigration and Citizenship (Committee on the Judiciary),JU01
+Subcommittee on Immigration and Border Security (Committee on the Judiciary),JU01
+"Courts, Intellectual Property, and Internet",JU03
+"Courts, Intellectual Property, and the Internet",JU03
+"Courts, Intellectual Property, and the Internet (Judiciary)",JU03
+"Courts, Intellectual Property, and the Internet (the Judiciary)",JU03
+"Subcommittee on Courts, Intellectual Property, and the Internet (Committee on the Judiciary)",JU03
+"Regulatory Reform, Commercial, and Antitrust Law (Committee on the Judiciary)",JU03
+"Regulatory Reform, Commercial and Antitrust Law (Committee on the Judiciary)",JU03
+"Courts, Intellectual Property, and the Internet (Committee on the Judiciary)",JU03
+"Antitrust, Commercial and Administrative Law",JU05
+"Antitrust, Commercial and Administrative Law (Judiciary)",JU05
+"Antitrust, Commercial, and Administrative Law",JU05
+"Antitrust, Commercial, and Administrative Law (Judiciary)",JU05
+"Antitrust, Commercial, and Administrative Law (the Judiciary)",JU05
+"Regulatory Reform, Commercial, and Antitrust Law (Judiciary)",JU05
+"Regulatory Reform, Commercial, and Antitrust Law (the Judiciary)",JU05
+"Subcommittee on Antitrust, Commercial, and Administrative Law (Committee on the Judiciary)",JU05
+"Subcommittee on Regulatory Reform, Commercial, and Antitrust Law (Committee on the Judiciary)",JU05
+"Regulatory Reform, Commercial and Antitrust Law (the Judiciary)",JU05
+"Subcommittee on Crime, Terrorism, and Homeland Security (Committee on the Judiciary)",JU08
+"Crime, Terrorism and Homeland Security",JU08
+"Crime, Terrorism and Homeland Security (Judiciary)",JU08
+"Crime, Terrorism, Homeland Security, and Investigations",JU08
+"Crime, Terrorism, Homeland Security, and Investigations (the Judiciary)",JU08
+"Subcommittee on Crime, Terrorism, Homeland Security, and Investigations (Committee on the Judiciary)",JU08
+Constitution and Civil Justice (Judiciary),JU10
+"Constitution, Civil Rights, and Civil Justice",JU10
+"Constitution, Civil Rights, and Civil Justice (Judiciary)",JU10
+"Constitution, Civil Rights, and Civil Justice (the Judiciary)",JU10
+"Constitution, Civil Rights, and Civil Liberties",JU10
+"The Constitution, Civil Rights, and Civil Liberties",JU10
+"The Constitution, Civil Rights, and Civil Liberties (Judiciary)",JU10
+"the Constitution, Civil Rights, and Civil Liberties (the Judiciary)",JU10
+the Constitution and Civil Justice (the Judiciary),JU10
+"Subcommittee on Constitution, Civil Rights, and Civil Justice (Committee on the Judiciary)",JU10
+"Subcommittee on the Constitution, Civil Rights, and Civil Liberties (Committee on the Judiciary)",JU10
+Subcommittee on the Constitution and Civil Justice (Committee on the Judiciary),JU10
+Select Committee on the Modernization of Congress,MH00
+Select the Modernization of Congress,MH00
+Committee on Transportation and Infrastructure,PW00
+Transportation and Infrastructure,PW00
+Water Resources and Environment,PW02
+Water Resources and Environment (Transportation and Infrastructure),PW02
+Subcommittee on Water Resources and Environment (Committee on Transportation and Infrastructure),PW02
+Aviation,PW05
+Aviation (Transportation and Infrastructure),PW05
+Subcommittee on Aviation (Committee on Transportation and Infrastructure),PW05
+Coast Guard and Maritime Transportation,PW07
+Coast Guard and Maritime Transportation (Transportation and Infrastructure),PW07
+Subcommittee on Coast Guard and Maritime Transportation (Committee on Transportation and Infrastructure),PW07
+Highways and Transit,PW12
+Highways and Transit (Transportation and Infrastructure),PW12
+Subcommittee on Highways and Transit (Committee on Transportation and Infrastructure),PW12
+"Economic Development, Public Buildings, and Emergency Management",PW13
+"Economic Development, Public Buildings, and Emergency Management (Transportation and Infrastructure)",PW13
+"Subcommittee on Economic Development, Public Buildings, and Emergency Management (Committee on Transportation and Infrastructure)",PW13
+"Railroads, Pipelines, and Hazardous Materials",PW14
+"Railroads, Pipelines, and Hazardous Materials (Transportation and Infrastructure)",PW14
+"Subcommittee on Railroads, Pipelines, and Hazardous Materials (Committee on Transportation and Infrastructure)",PW14
+Committee on Rules,RU00
+Rules,RU00
+Legislative and Budget Process,RU02
+Subcommittee on Legislative and Budget Process (Committee on Rules),RU02
+Legislative and Budget Process (Rules),RU02
+Rules and Organization of the House,RU04
+Subcommittee on Rules and Organization of the House (Committee on Rules),RU04
+Rules and Organization of the House (Rules),RU04
+Expedited Procedures,RU05
+Health and Technology,SM26
+Health and Technology (Small Business),SM26
+Committee on Small Business,SM00
+Small Business,SM00
+Contracting and Infrastructure,SM23
+Contracting and Infrastructure (Small Business),SM23
+Subcommittee on Contracting and Infrastructure (Committee on Small Business),SM23
+Contracting and Workforce (Small Business),SM23
+"Investigations, Oversight and Regulations",SM24
+"Investigations, Oversight and Regulations (Small Business)",SM24
+"Investigations, Oversight, and Regulations (Small Business)",SM24
+"Subcommittee on Investigations, Oversight, and Regulations (Committee on Small Business)",SM24
+"Subcommittee on Investigations, Oversight and Regulations (Committee on Small Business)",SM24
+"Agriculture, Energy and Trade",SM25
+"Agriculture, Energy and Trade (Small Business)",SM25
+"Rural Development, Agriculture, Trade and Entrepreneurship",SM25
+"Rural Development, Agriculture, Trade and Entrepreneurship (Small Business)",SM25
+"Rural Development, Agriculture, Trade, and Entrepreneurship",SM25
+"Rural Development, Agriculture, Trade, and Entrepreneurship (Small Business)",SM25
+"Subcommittee on Rural Development, Agriculture, Trade, and Entrepreneurship (Committee on Small Business)",SM25
+"Subcommittee on Agriculture, Energy and Trade (Committee on Small Business)",SM25
+Contracting and Workforce,SM26
+Innovation and Workforce Development,SM26
+Innovation and Workforce Development (Small Business),SM26
+Subcommittee on Contracting and Workforce (Committee on Small Business),SM26
+Subcommittee on Innovation and Workforce Development (Committee on Small Business),SM26
+Subcommittee on Health and Technology (Committee on Small Business),SM26
+"Economic Growth, Tax and Capital Access",SM27
+"Economic Growth, Tax and Capital Access (Small Business)",SM27
+"Economic Growth, Tax, and Capital Access",SM27
+"Economic Growth, Tax, and Capital Access (Small Business)",SM27
+"Subcommittee on Economic Growth, Tax, and Capital Access (Committee on Small Business)",SM27
+"Subcommittee on Economic Growth, Tax and Capital Access (Committee on Small Business)",SM27
+Committee on Ethics,SO00
+Ethics,SO00
+"Committee on Science, Space, and Technology",SY00
+"Science, Space, and Technology",SY00
+Research and Technology,SY15
+"Research and Technology (Science, Space, and Technology)",SY15
+"Subcommittee on Research and Technology (Committee on Science, Space, and Technology)",SY15
+"Research (Science, Space, and Technology)",SY15
+Space,SY16
+"Space (Science, Space, and Technology)",SY16
+Space and Aeronautics,SY16
+"Space and Aeronautics (Science, Space, and Technology)",SY16
+"Subcommittee on Space and Aeronautics (Committee on Science, Space, and Technology)",SY16
+"Subcommittee on Space (Committee on Science, Space, and Technology)",SY16
+"Environment (Science, Space, and Technology)",SY18
+"Subcommittee on Environment (Committee on Science, Space, and Technology)",SY18
+"Technology (Science, Space, and Technology)",SY19
+Investigations and Oversight,SY21
+"Investigations and Oversight (Science, Space, and Technology)",SY21
+"Subcommittee on Investigations and Oversight (Committee on Science, Space, and Technology)",SY21
+Committee on Veterans' Affairs,VR00
+Veterans' Affairs,VR00
+Committee on Veterans Affairs,VR00
+Subcommittee on Health (Committee on Veterans Affairs),VR03
+Subcommittee on Oversight and Investigations (Committee on Veterans Affairs),VR08
+Disability Assistance and Memorial Affairs,VR09
+Disability Assistance and Memorial Affairs (Veterans' Affairs),VR09
+Subcommittee on Disability Assistance and Memorial Affairs (Committee on Veterans Affairs),VR09
+Subcommittee on Disability Assistance and Memorial Affairs (Committee on Veterans' Affairs),VR09
+Economic Opportunity,VR10
+Economic Opportunity (Veterans' Affairs),VR10
+Subcommittee on Economic Opportunity (Committee on Veterans Affairs),VR10
+Subcommittee on Economic Opportunity (Committee on Veterans' Affairs),VR10
+Technology Modernization,VR11
+Technology Modernization (Veterans' Affairs),VR11
+Subcommittee on Technology Modernization (Committee on Veterans Affairs),VR11
+Subcommittee on Technology Modernization (Committee on Veterans' Affairs),VR11
+Human Resources,WM??
+Committee on Ways and Means,WM00
+Ways and Means,WM00
+Social Security,WM01
+Social Security (Ways and Means),WM01
+Subcommittee on Social Security (Committee on Ways and Means),WM01
+Worker and Family Support,WM03
+Worker and Family Support (Ways and Means),WM03
+Subcommittee on Worker and Family Support (Committee on Ways and Means),WM03
+Subcommittee on Human Resources (Committee on Ways and Means),WM03
+Trade,WM04
+Trade (Ways and Means),WM04
+Subcommittee on Trade (Committee on Ways and Means),WM04
+Select Revenue Measures,WM05
+Select Revenue Measures (Ways and Means),WM05
+Subcommittee on Select Revenue Measures (Committee on Ways and Means),WM05
+Subcommittee on Tax Policy (Committee on Ways and Means),WM05
+Oversight,WM06
+"Oversight (Science, Space, and Technology)",WM06
+Oversight (Ways and Means),WM06
+Subcommittee on Oversight (Committee on Ways and Means),WM06
+"Subcommittee on Oversight (Committee on Science, Space, and Technology)",WM06
+Select the Events Surrounding the 2012 Terrorist Attack in Benghazi,ZI00
+Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi,ZI00
