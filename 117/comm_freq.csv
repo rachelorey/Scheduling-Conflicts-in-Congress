@@ -1,0 +1,51 @@
+Committee,Code,Scheduling Conflicts,Committee Members (Count)
+Committee on Financial Services,BA00,1161,55
+Financial Services,BA00,1161,55
+Committee on Oversight and Reform,GO00,1144,46
+Oversight and Reform,GO00,1144,46
+Committee on Natural Resources,II00,1065,48
+Natural Resources,II00,1065,48
+Transportation and Infrastructure,PW00,1056,69
+Committee on Transportation and Infrastructure,PW00,1056,69
+Judiciary,JU00,1000,44
+Committee on the Judiciary,JU00,1000,44
+Committee on Foreign Affairs,FA00,995,51
+Foreign Affairs,FA00,995,51
+Appropriations,AP00,951,60
+Committee on Appropriations,AP00,951,60
+Armed Services,AS00,886,60
+Committee on Armed Services,AS00,886,60
+Committee on Agriculture,AG00,858,52
+Agriculture,AG00,858,52
+Education and Labor,ED00,791,54
+Committee on Education and Labor,ED00,791,54
+"Committee on Science, Space, and Technology",SY00,740,42
+"Science, Space, and Technology",SY00,740,42
+Committee on Small Business,SM00,602,28
+Small Business,SM00,602,28
+Committee on Energy and Commerce,IF00,526,59
+Energy and Commerce,IF00,526,59
+Homeland Security,HM00,509,36
+Committee on Homeland Security,HM00,509,36
+Committee on Veterans' Affairs,VR00,418,32
+Committee on Veterans Affairs,VR00,418,32
+Veterans' Affairs,VR00,418,32
+Select Intelligence,IG00,314,24
+Permanent Select Committee on Intelligence,IG00,314,24
+Budget,BU00,227,38
+Committee on the Budget,BU00,227,38
+Select Subcommittee on the Coronavirus Crisis,VC00,156,27
+Ways and Means,WM00,148,43
+Committee on Ways and Means,WM00,148,43
+Select Committee on the Modernization of Congress,MH00,142,13
+Select Modernization of Congress,MH00,142,13
+Rules,RU00,128,14
+Committee on Rules,RU00,128,14
+Select Economic Disparity and Fairness in Growth,EF00,93,15
+Select Committee on Economic Disparity and Fairness in Growth,EF00,93,15
+House Administration,HA00,46,10
+Committee on House Administration,HA00,46,10
+Select Committee on the Climate Crisis,CN00,42,17
+Select Climate Crisis,CN00,42,17
+Select Investigate the January 6th Attack on the United States Capitol,IJ00,6,10
+Select Committee to Investigate the January 6th Attack on the United States Capitol,IJ00,6,10
