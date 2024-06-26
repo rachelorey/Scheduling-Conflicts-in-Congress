@@ -1,0 +1,50 @@
+Committee,Code,Scheduling Conflicts,Committee Members (Count)
+Natural Resources,II00,1841,46
+Committee on Natural Resources,II00,1841,46
+Committee on Energy and Commerce,IF00,1607,53
+Energy and Commerce,IF00,1607,53
+Committee on Oversight and Accountability,GO00,1523,48
+Oversight and Accountability,GO00,1523,48
+Committee on Transportation and Infrastructure,PW00,1512,64
+Transportation and Infrastructure,PW00,1512,64
+Committee on Armed Services,AS00,1414,59
+Armed Services,AS00,1414,59
+Committee on Appropriations,AP00,1400,62
+Appropriations,AP00,1400,62
+Education and the Workforce,ED00,1242,45
+Committee on Education and the Workforce,ED00,1242,45
+Foreign Affairs,FA00,1205,51
+Committee on Foreign Affairs,FA00,1205,51
+Judiciary,JU00,959,44
+Committee on the Judiciary,JU00,959,44
+"Committee on Science, Space, and Technology",SY00,944,40
+"Science, Space, and Technology",SY00,944,40
+Financial Services,BA00,861,53
+Committee on Financial Services,BA00,861,53
+Agriculture,AG00,699,55
+Committee on Agriculture,AG00,699,55
+Small Business,SM00,627,28
+Committee on Small Business,SM00,627,28
+Homeland Security,HM00,588,34
+Committee on Homeland Security,HM00,588,34
+Committee on Veterans Affairs,VR00,532,26
+Veterans' Affairs,VR00,532,26
+Committee on Veterans' Affairs,VR00,532,26
+Budget,BU00,353,36
+Committee on the Budget,BU00,353,36
+Select Intelligence,IG00,339,24
+Permanent Select Committee on Intelligence,IG00,339,24
+Ways and Means,WM00,312,44
+Committee on Ways and Means,WM00,312,44
+Select Subcommittee on the Coronavirus Pandemic,VC00,232,"VC00    17
+VC00    17
+dtype: int64"
+House Administration,HA00,218,13
+Committee on House Administration,HA00,218,13
+Select Subcommittee on the Weaponization of the Federal Government,FD00,126,22
+Select Committee on the  Strategic Competition Between the United States and the Chinese Communist Party,ZS00,87,24
+Select Strategic Competition,ZS00,87,24
+Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party,ZS00,87,24
+Select Committee on the Strategic Competition Between the United States and the Chinese Communist Pa,ZS00,87,24
+Committee on Rules,RU00,17,14
+Rules,RU00,17,14
