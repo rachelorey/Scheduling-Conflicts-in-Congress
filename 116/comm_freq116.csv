@@ -1,0 +1,24 @@
+Committee,Code,Scheduling Conflicts,Committee Members (Count)
+Committee on Energy and Commerce,IF00,1830,55
+Committee on Appropriations,AP00,1743,52
+Committee on Natural Resources,II00,1733,46
+Committee on Transportation and Infrastructure,PW00,1404,67
+Committee on Oversight and Reform,GO00,1350,42
+Committee on Foreign Affairs,FA00,1274,47
+Committee on the Judiciary,JU00,1169,40
+Committee on Armed Services,AS00,1138,57
+Committee on Financial Services,BA00,1124,60
+"Committee on Science, Space, and Technology",SY00,1025,38
+Committee on Education and Labor,ED00,956,49
+Committee on Small Business,SM00,800,24
+Committee on Homeland Security,HM00,747,31
+Committee on the Budget,BU00,650,36
+Committee on Veterans Affairs,VR00,561,27
+Committee on Agriculture,AG00,478,48
+Committee on Ways and Means,WM00,261,42
+Permanent Select Committee on Intelligence,IG00,255,21
+Select Committee on the Climate Crisis,CN00,127,15
+Committee on House Administration,HA00,88,9
+Committee on Rules,RU00,79,13
+Select Committee on the Modernization of Congress,MH00,57,11
+Select Subcommittee on the Coronavirus Crisis,VC00,5,12
