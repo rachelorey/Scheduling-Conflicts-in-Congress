@@ -4,11 +4,11 @@ This repository contains code and data related to the Bipartisan Policy Center's
 
 ## Project Structure
 
-- **Scheduling - Conflicts Data Pull V2.ipynb**: Collects hearing data from `docs.house.gov` and committee assignments from `clerk.house.gov`. It then identifies scheduling conflicts.
-- **Scheduling - Results Analysis.ipynb**: Analyzes the collected data to aggregate and present results.
+- `get_conflicts.ipynb`: Collects hearing data from `docs.house.gov` and committee assignments from `clerk.house.gov`. It then identifies scheduling conflicts. Works primarily for 116th Congress and after. 
+- `analyze_conflicts.ipynb`: Analyzes the collected data to aggregate and present results.
 - **Folder Structure**:
   - Each Congress (113th through 118th) is organized into its own folder, containing relevant data files and analysis specific to that Congress. Data has been collected through July 31, 2024, about halfway through the second session of the 118th Congress.
-  - A separate folder is dedicated to cross-congress analysis, allowing for a broader examination of scheduling conflicts over multiple Congresses.
+  - A separate folder is dedicated to cross-congress analysis (`113-118`), allowing for a broader examination of scheduling conflicts over multiple Congresses.
 
 ## Notes and Usage
 
