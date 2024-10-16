@@ -12,7 +12,7 @@ This repository contains code and data related to the Bipartisan Policy Center's
 
 ## Notes and Usage
 
-Due to rate limiting on government websites, the data collection process may take several hours. To run the analysis quickly, pre-loaded CSV files from the initial data collection are used in the analysis notebook.
+Tthe data collection process may take several hours. To run the analysis quickly, pre-loaded CSV files from the initial data collection are used in the analysis notebook.
 
 ## Methodology
 
